@@ -1,0 +1,10 @@
+import os
+my_output = os.system("clear")
+print ("Hello everybody")
+print ("IAM ₣TWŠA")
+input("Enter your name:")
+print ("Nice to meet you Fadi love you <3")
+input ("Do you love captain Fadi?")
+print ("He love you so much and he loves all children")
+print("."*20)
+print ("see you in the next script")
